@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Cu6Ni2C5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.56097361
+_cell_length_b   7.45564109
+_cell_length_c   11.99112558
+_cell_angle_alpha   88.04959158
+_cell_angle_beta   78.36531104
+_cell_angle_gamma   88.32412017
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu6Ni2C5
+_chemical_formula_sum   'Cu12 Ni4 C10'
+_cell_volume   661.51726943
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.95868000  0.55707100  0.88103200  1
+  C  C1  1  0.04132000  0.44292900  0.11896800  1
+  Ni  Ni2  1  0.65403900  0.28134800  0.60206600  1
+  Ni  Ni3  1  0.34596100  0.71865200  0.39793400  1
+  Ni  Ni4  1  0.78740800  0.21569300  0.99665200  1
+  Ni  Ni5  1  0.21259200  0.78430700  0.00334800  1
+  Cu  Cu6  1  0.81528900  0.24182900  0.53855400  1
+  Cu  Cu7  1  0.18471100  0.75817100  0.46144600  1
+  Cu  Cu8  1  0.59816800  0.46399200  0.62514100  1
+  Cu  Cu9  1  0.40183200  0.53600800  0.37485900  1
+  Cu  Cu10  1  0.53098200  0.16041500  0.64772700  1
+  Cu  Cu11  1  0.46901800  0.83958500  0.35227300  1
+  Cu  Cu12  1  0.72912400  0.18845700  0.89962900  1
+  Cu  Cu13  1  0.27087600  0.81154300  0.10037100  1
+  Cu  Cu14  1  0.88419100  0.35428500  0.00722400  1
+  Cu  Cu15  1  0.11580900  0.64571500  0.99277600  1
+  Cu  Cu16  1  0.73512100  0.08077600  0.08368200  1
+  Cu  Cu17  1  0.26487900  0.91922400  0.91631800  1
+  C  C18  1  0.73700600  0.75336700  0.89033000  1
+  C  C19  1  0.26299400  0.24663300  0.10967000  1
+  C  C20  1  0.75030000  0.61762600  0.56903600  1
+  C  C21  1  0.24970000  0.38237400  0.43096400  1
+  C  C22  1  0.10396000  0.39087900  0.74496200  1
+  C  C23  1  0.89604000  0.60912100  0.25503800  1
+  C  C24  1  0.20151500  0.90080400  0.79413300  1
+  C  C25  1  0.79848500  0.09919600  0.20586700  1

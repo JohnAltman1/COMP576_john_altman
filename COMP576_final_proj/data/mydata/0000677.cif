@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Cu2C13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.74580941
+_cell_length_b   11.49815453
+_cell_length_c   6.11236761
+_cell_angle_alpha   89.99999196
+_cell_angle_beta   88.84445052
+_cell_angle_gamma   31.54339577
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2C13
+_chemical_formula_sum   'Cu2 C13'
+_cell_volume   247.83929529
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.00000000  0.50000000  0.00000000  1
+  C  C1  1  0.00000000  0.35294000  0.50000000  1
+  C  C2  1  0.00000000  0.64706000  0.50000000  1
+  C  C3  1  0.70998900  0.98625600  0.82392200  1
+  C  C4  1  0.70998900  0.30375500  0.82392200  1
+  C  C5  1  0.29001100  0.01374400  0.17607800  1
+  C  C6  1  0.29001100  0.69624500  0.17607800  1
+  Cu  Cu7  1  0.39224340  0.81401754  0.64020636  1
+  Cu  Cu8  1  0.62133823  0.19743918  0.38559175  1
+  C  C9  1  0.40736300  0.95551800  0.77354800  1
+  C  C10  1  0.40736300  0.63711900  0.77354800  1
+  C  C11  1  0.59263700  0.04448200  0.22645200  1
+  C  C12  1  0.59263700  0.36288100  0.22645200  1
+  C  C13  1  0.63483500  0.68258300  0.32188100  1
+  C  C14  1  0.36516500  0.31741700  0.67811900  1

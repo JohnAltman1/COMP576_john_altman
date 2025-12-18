@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Cu3(NiC2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.10916917
+_cell_length_b   10.10916917
+_cell_length_c   9.19742200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   126.15942388
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3(NiC2)2
+_chemical_formula_sum   'Cu6 Ni4 C8'
+_cell_volume   758.88182546
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.47062913  0.47500541  0.50157498  1
+  Cu  Cu1  1  0.98989052  0.98533862  0.98839321  1
+  Cu  Cu2  1  0.31017129  0.02379250  0.66089617  1
+  Cu  Cu3  1  0.51180602  0.80519906  0.84314123  1
+  Cu  Cu4  1  0.17320775  0.47506528  0.16456113  1
+  Ni  Ni5  1  0.97756500  0.68545000  0.33579400  1
+  Ni  Ni6  1  0.68545000  0.97756500  0.33579400  1
+  Cu  Cu7  1  0.45254828  0.16994622  0.17519652  1
+  Ni  Ni8  1  0.81455000  0.52243500  0.83579400  1
+  Ni  Ni9  1  0.02243500  0.31455000  0.66420600  1
+  C  C10  1  0.88682100  0.88682100  0.61290500  1
+  C  C11  1  0.38682100  0.38682100  0.88709500  1
+  C  C12  1  0.61317900  0.61317900  0.11290500  1
+  C  C13  1  0.11317900  0.11317900  0.38709500  1
+  C  C14  1  0.19813800  0.80186200  0.00000000  1
+  C  C15  1  0.30186200  0.69813800  0.50000000  1
+  C  C16  1  0.80186200  0.19813800  0.00000000  1
+  C  C17  1  0.69813800  0.30186200  0.50000000  1
